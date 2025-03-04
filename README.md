@@ -25,4 +25,4 @@ My detailed study notes are maintained in Notion: [Notion Link]
 
 ## License
 
-TBD
+This repository is for personal archival purposes. All competition data usage complies with Kaggle terms and conditions.
