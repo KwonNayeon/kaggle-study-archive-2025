@@ -16,7 +16,8 @@ TBD
 
 ## Study Resources
 
-My detailed study notes are maintained in Notion: [Notion Link]
+- My detailed study notes are maintained in Notion: [Notion Link]
+- Based on the book: ["Kaggle Know-how from Kaggle Medalists" (캐글 메달리스트가 알려주는 캐글 노하우)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321117891&start=slayer), Kim Taejin et al., Gilbut, 2023-07-25
 
 ## Tools & Technologies
 
