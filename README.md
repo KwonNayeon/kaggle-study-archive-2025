@@ -4,15 +4,15 @@ Personal archive of my Kaggle competition work during the March-April 2025 study
 
 ## Overview
 
-TBD
+A study group where members take turns presenting chapters from reference books and then apply the concepts and know-how directly in actual Kaggle competitions.
 
 ## Competitions
 
 ### [Binary Prediction with Rainfall Dataset](./rainfall-binary-prediction)
-- Status: 
-- Score: 
-- Rank: 
-- Brief: 
+- Status: In Progress
+- Score: 0.8726 AUC
+- Rank: 1321/2792
+- Brief: Binary classification to predict rainfall using weather data. Currently using Logistic Regression as baseline.
 
 ## Study Resources
 
@@ -22,7 +22,10 @@ TBD
 ## Tools & Technologies
 
 - Python
-- TBD
+- Pandas
+- Scikit-learn
+- Matplotlib/Seaborn
+- Jupyter Notebook
 
 ## License
 
