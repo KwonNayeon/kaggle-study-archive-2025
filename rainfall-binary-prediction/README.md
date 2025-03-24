@@ -33,5 +33,5 @@ TBD
 
 ## Files
 - `notebooks/`: Jupyter notebooks for exploration and modeling
-  - `PS5E3_Rainfall_Classification_Baseline.ipynb`: Baseline model with detailed comments
+  - `ps5e3-compare-basic-models-v1.ipynb`: Baseline model with detailed comments
 - `submissions/`: Competition submission files
