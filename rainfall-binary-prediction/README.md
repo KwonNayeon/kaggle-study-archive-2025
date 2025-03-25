@@ -39,4 +39,3 @@ TBD
 - `notebooks/`: Jupyter notebooks for exploration and modeling
   - `ps5e3-compare-basic-models-v1.ipynb`: Baseline model
   - `ps5e3-models-with-feature-engineering-v1.ipynb`: Results after feature engineering
-- `submissions/`: Competition submission files
