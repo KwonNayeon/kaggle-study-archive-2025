@@ -12,7 +12,7 @@ A study group where members take turns presenting chapters from reference books 
 - Status: In Progress
 - Score: 0.86511 AUC
 - Rank: 962/3495
-- Brief: Binary classification to predict rainfall using weather data. Currently using Logistic Regression as baseline.
+- Brief: Binary classification to predict rainfall using weather data.
 
 ## Study Resources
 
