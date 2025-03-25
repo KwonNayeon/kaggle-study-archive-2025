@@ -10,8 +10,8 @@ A study group where members take turns presenting chapters from reference books 
 
 ### [Binary Prediction with Rainfall Dataset](./rainfall-binary-prediction)
 - Status: In Progress
-- Score: 0.8726 AUC
-- Rank: 1321/2792
+- Score: 0.86511 AUC
+- Rank: 962/3495
 - Brief: Binary classification to predict rainfall using weather data. Currently using Logistic Regression as baseline.
 
 ## Study Resources
