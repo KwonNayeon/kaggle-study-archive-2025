@@ -37,6 +37,6 @@ TBD
 
 ## Files
 - `notebooks/`: Jupyter notebooks for exploration and modeling
-  - `ps5e3-compare-basic-models-v1.ipynb`: Baseline model ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.85679-blue)
-  - `ps5e3-models-with-feature-engineering-v1.ipynb`: Results after feature engineering ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.86511-blue)
-  - `ps5e3-enhanced-models-with-feature-selection.ipynb`: Enhanced models with feature selection ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.86618-blue)
+  - `ps5e3-compare-basic-models-v1.ipynb`: Baseline models ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.85679-blue)
+  - `ps5e3-models-with-feature-engineering-v1.ipynb`: Models with feature engineering ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.86511-blue)
+  - `ps5e3-enhanced-models-with-feature-selection.ipynb`: Enhanced models with additional feature engineering ![Kaggle Score](https://img.shields.io/badge/Kaggle%20Public%20Score-0.86618-blue)
