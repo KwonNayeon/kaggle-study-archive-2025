@@ -9,7 +9,7 @@ A study group where members take turns presenting chapters from reference books 
 ## Competitions
 
 ### [Binary Prediction with Rainfall Dataset](./rainfall-binary-prediction)
-- Status: In Progress
+- Status: Done
 - Score: 0.89712 AUC
 - Rank: 700/4382
 - Brief: Binary classification to predict rainfall using weather data.
