@@ -14,6 +14,12 @@ A study group where members take turns presenting chapters from reference books 
 - Rank: 700/4382
 - Brief: Binary classification to predict rainfall using weather data.
 
+### [Nexar Dashcam Crash Prediction Challenge](./nexar-crash-prediction)
+- Status: In progress
+- Score: TBD
+- Rank: TBD
+- Brief: Predicting imminent collisions using dashcam footage in a balanced dataset of real-world driving scenarios provided by Nexar.
+
 ## Study Resources
 
 - My detailed study notes are maintained in Notion: [Notion Link]
